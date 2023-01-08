@@ -1,0 +1,5 @@
+name: PermissionAPI
+version: '${project.version}'
+main: me.moontimer.permissionapi.PermissionAPI
+authors: [MoonTimer]
+description: PermissionAPI

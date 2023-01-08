@@ -1,0 +1,4 @@
+name: PermissionAPI
+author: MoonTimer
+version: '1.0-SNAPSHOT'
+main: me.moontimer.permission.PermissionAPI
